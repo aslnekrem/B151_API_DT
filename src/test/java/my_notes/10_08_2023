@@ -1,0 +1,35 @@
+# Api'da süreklli kullandigin bir Url veya pet varsa variable'dan bunu variable olarak ekleyip search kutusuna
+    { yaparak bunu kisayol gibi kullanabilirsin postman'De
+
+# Eger test senaryosunda biz gecici data'i olusturuyorsak kesinlikle o senaryo sonunda o data'yi sil
+    yoksa data yüklemesi olur ve inanilmaz bir acemilik olur.
+
+# Her sitenin swagger dökümani olmayabilir
+
+# Swagger dökümaninin ne ise yaradigini ne oldugunu ögren, Header ve Path'leri bugün dersini tekrar yaparak bak.
+    Ilk part'da anlatti hoca
+    Cevap: Swagger dökümani: API'lar ile nasil sorgulama yapacagimizi bize gösteren dökümandir
+
+# Postman'de yukarida Import'dan developer'in bize gönderdigi Curl'u yükleriz ve islemi otomatik olusturur postman. Normalde bizim yapmis oldiugumuz isi
+    Mesela Put isleminde yaptigimiz her seyi, put ile ilgili olan bir Curl'ü alip import ettigimizde her seyi kendisi otomatik yapiyor
+    Yani normalde yaptigimiz Post Request'deki islemlerin hepsini Curl import ettigimizde otomatik her sey olusuyor body vs..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

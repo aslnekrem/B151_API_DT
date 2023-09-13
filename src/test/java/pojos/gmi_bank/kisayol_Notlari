@@ -1,0 +1,11 @@
+Pojo Generator installed from plugin
+
+sonra pojo class olusturmak istedigimiz yere sag tik new Generate Pojo from Json'i sectik
+
+Body kismini metin olan yere yerlestirdik.
+use setters, use getters, use toString, Rewrite existing classes ve none secilmis olsun
+
+Pojo'yu olustururken en distaki Pojo_nun ismini biz belirliyoruz. Iceride olusacak Pojo'lari otomatik algiliyor program
+Ayrica Constructor kismini bos ve dolu yazmiyor bunlari ekle
+
+@JsonIgnore kisminida eklemiyor ihtiyac olursa sen ekle
